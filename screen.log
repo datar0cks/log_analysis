@@ -1,0 +1,57 @@
+Script started on Mon 08 Jul 2019 02:43:33 AM UTC
+]0;vagrant@vagrant: /vagrant/log_analysisvagrant@vagrant:/vagrant/log_analysis$ exitpython log_analysis.pyexit[Kpython log_analysis.py
+
+*****************************
+******** Run Reports ********
+*****************************
+
+1 --> Most popular articles
+2 --> Most popular authors
+3 --> Days with >1% error rate
+
+Select report to run:  1
+Candidate is jerk, alleges rival -- 338647 views
+Bears love berries, alleges bear -- 253801 views
+Bad things gone, say good people -- 170098 views
+]0;vagrant@vagrant: /vagrant/log_analysisvagrant@vagrant:/vagrant/log_analysis$ python log_analysis.py
+
+*****************************
+******** Run Reports ********
+*****************************
+
+1 --> Most popular articles
+2 --> Most popular authors
+3 --> Days with >1% error rate
+
+Select report to run:  2
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+Markoff Chaney -- 84557 views
+]0;vagrant@vagrant: /vagrant/log_analysisvagrant@vagrant:/vagrant/log_analysis$ python log_analysis.py
+
+*****************************
+******** Run Reports ********
+*****************************
+
+1 --> Most popular articles
+2 --> Most popular authors
+3 --> Days with >1% error rate
+
+Select report to run:  3
+2016-07-17 -- 2.26 errors
+]0;vagrant@vagrant: /vagrant/log_analysisvagrant@vagrant:/vagrant/log_analysis$ python log_analysis.py
+
+*****************************
+******** Run Reports ********
+*****************************
+
+1 --> Most popular articles
+2 --> Most popular authors
+3 --> Days with >1% error rate
+
+Select report to run:  4 5
+]0;vagrant@vagrant: /vagrant/log_analysisvagrant@vagrant:/vagrant/log_analysis$ exit
+exit
+
+Script done on Mon 08 Jul 2019 02:44:10 AM UTC
